@@ -1,0 +1,107 @@
+Mozilla Developer Network - https://developer.mozilla.org/en-US/
+
+Google - https://www.google.com/
+Evernote - https://evernote.com/
+
+Node.js - https://nodejs.org/en/
+﻿﻿
+Github - https://github.com/
+Git - https://git-scm.com/
+
+﻿
+Bootstrap - http://getbootstrap.com/
+Foundation
+Base CSS
+You Might Not Need jQuery
+Can I Use
+Sass - http://sass-lang.com/guide
+
+CSS Stats - http://www.cssstats.com/
+StyleStats - http://www.stylestats.org/
+
+SMACSS - https://smacss.com/
+
+Jekyll - https://jekyllrb.com/docs/home/
+
+Wordpress Codex - https://codex.wordpress.org/
+
+CSS Tricks - 
+
+Linux - https://www.linux.com/
+Ubuntu - http://www.ubuntu.com/
+GNOME - https://www.gnome.org/
+TLP
+Pithos
+
+
+Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
+
+Free Software
+
+Open Source
+
+JavaScript
+
+Express.js
+
+MongoDB
+CouchDB
+MySQL
+
+Brackets
+     Extensions:
+         
+Sublime Text
+     Extensions:
+         
+Atom
+     Extensions:
+         
+
+LAMP
+LEMP
+
+Apache
+nginx 
+
+PHP
+Ruby
+
+Cloud 9 - https://c9.io/
+
+BuiltWith - https://builtwith.com/
+GT Metrix - https://gtmetrix.com/
+Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
+
+
+Wordpress - 
+     Plug-Ins:
+    
+_underscores - http://underscores.me/
+
+
+Basecamp - https://basecamp.com/
+
+Wunderlist - https://www.wunderlist.com/
+
+
+Helpscout
+
+Browser - 
+Google Chrome - https://www.google.com/chrome/
+      Extensions
+Web Developer
+uBlock Origin
+SimpleExtManager
+TooManyTabs
+Evernote Web Clipper
+Nimbus
+Ghostery
+HTTPS Everywhere
+SnappySnippet
+Appspector
+Builtwith
+W3School Hider
+Mozilla Firefox - https://www.mozilla.org/en-US/firefox/new/
+       Extentions:
+       
