@@ -104,4 +104,7 @@ Builtwith
 W3School Hider
 Mozilla Firefox - https://www.mozilla.org/en-US/firefox/new/
        Extentions:
-       
+       Dust-Me Selectors
+       CSS Usage
+       Firebug
+       Web Developer
