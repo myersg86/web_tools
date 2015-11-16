@@ -50,6 +50,10 @@ MySQL
 
 Brackets
      Extensions:
+          autoprefixer
+          beautify
+          csslint
+          extensions rating
          
 Sublime Text
      Extensions:
@@ -57,11 +61,16 @@ Sublime Text
 Atom
      Extensions:
          atom-beautify
+         atom-jshint
+         autoclose-html
          autoprefixer
+         color-picker
          highlight-line
+         highlight-selected
          jshint
          linter
          linter-csslint
+         linter-htmlhint
          linter-jshint
          linter-scsshint
          minimap
