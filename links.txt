@@ -1,12 +1,25 @@
 Mozilla Developer Network - https://developer.mozilla.org/en-US/
 
+Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
+
+
 Google - https://www.google.com/
+Google Developers - https://developers.google.com/web/tools/
+
 Evernote - https://evernote.com/
 
 Node.js - https://nodejs.org/en/
-﻿﻿
+
 Github - https://github.com/
 Git - https://git-scm.com/
+
+CodePen - http://codepen.io/
+
+JavaScripting - http://www.javascripting.com/
+
+TinyPNG - https://tinypng.com/
+
+Toolbox - http://thetoolbox.cc/
 
 Bootstrap - http://getbootstrap.com/
 Foundation - http://foundation.zurb.com/
