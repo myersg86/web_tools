@@ -30,8 +30,8 @@ CSS Tricks -
 Linux - https://www.linux.com/
 Ubuntu - http://www.ubuntu.com/
 GNOME - https://www.gnome.org/
-TLP
-Pithos
+TLP - http://linrunner.de/en/tlp/tlp.html
+Pithos - https://github.com/pithos/pithos
 
 
 Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
@@ -56,7 +56,16 @@ Sublime Text
          
 Atom
      Extensions:
-         
+         atom-beautify
+         autoprefixer
+         highlight-line
+         jshint
+         linter
+         linter-csslint
+         linter-jshint
+         linter-scsshint
+         minimap
+         pigments
 
 LAMP
 LEMP
@@ -72,36 +81,42 @@ Cloud 9 - https://c9.io/
 BuiltWith - https://builtwith.com/
 GT Metrix - https://gtmetrix.com/
 Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
+Web Page Test
+YSlow
 
 
 Wordpress - 
      Plug-Ins:
+     
     
-_underscores - http://underscores.me/
+     _underscores - http://underscores.me/
 
+Helpscout - 
+
+Trello - 
 
 Basecamp - https://basecamp.com/
 
 Wunderlist - https://www.wunderlist.com/
 
 
-Helpscout
 
 Browser - 
+
 Google Chrome - https://www.google.com/chrome/
       Extensions
-Web Developer
-uBlock Origin
-SimpleExtManager
-TooManyTabs
-Evernote Web Clipper
-Nimbus
-Ghostery
-HTTPS Everywhere
-SnappySnippet
-Appspector
-Builtwith
-W3School Hider
+     Web Developer
+     uBlock Origin
+     SimpleExtManager
+     TooManyTabs
+     Evernote Web Clipper
+     Nimbus
+     Ghostery
+     HTTPS Everywhere
+     Appspector
+     Builtwith
+     W3School Hider
+     
 Mozilla Firefox - https://www.mozilla.org/en-US/firefox/new/
        Extentions:
        Dust-Me Selectors
