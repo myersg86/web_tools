@@ -23,33 +23,36 @@ TinyPNG - https://tinypng.com/
 
 Toolbox - http://thetoolbox.cc/
 
+HTML5 Boilerplate - https://html5boilerplate.com/
+
 Bootstrap - http://getbootstrap.com/
 Foundation - http://foundation.zurb.com/
 US Design Standards - https://playbook.cio.gov/designstandards/
-
 Base CSS
-You Might Not Need jQuery
-Can I Use
+
+You Might Not Need jQuery - http://youmightnotneedjquery.com/
+Can I Use - http://caniuse.com/
 HTML5 Please - http://html5please.com/
 
 Sass - http://sass-lang.com/guide
-
-HTML5 Please - https://html5boilerplate.com/
-
 CSS Stats - http://www.cssstats.com/
 StyleStats - http://www.stylestats.org/
-
 SMACSS - https://smacss.com/
 
 Jekyll - https://jekyllrb.com/docs/home/
 
 Wordpress Codex - https://codex.wordpress.org/
 
-CSS Tricks - 
+CSS Tricks - https://css-tricks.com/
 
 Linux - https://www.linux.com/
 Ubuntu - http://www.ubuntu.com/
+
 GNOME - https://www.gnome.org/
+Ubuntu MATE - https://ubuntu-mate.org/
+Xfce - http://www.xfce.org/
+LXDE - http://lxde.org/
+
 TLP - http://linrunner.de/en/tlp/tlp.html
 Pithos - https://github.com/pithos/pithos
 
@@ -62,23 +65,23 @@ Open Source
 
 JavaScript
 
-Express.js
+Express.js - http://expressjs.com/
 
-MongoDB
-CouchDB
-MySQL
+MongoDB - https://www.mongodb.org/
+CouchDB - https://couchdb.apache.org/
+MySQL - https://www.mysql.com/
 
-Brackets
+Brackets - http://brackets.io/
      Extensions:
           autoprefixer
           beautify
           csslint
           extensions rating
          
-Sublime Text~
+Sublime Text (older systems) - https://www.sublimetext.com/
      Extensions:
          
-Atom
+Atom - https://atom.io/
      Extensions:
          atom-beautify
          atom-jshint
