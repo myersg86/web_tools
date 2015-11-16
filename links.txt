@@ -8,13 +8,18 @@ Node.js - https://nodejs.org/en/
 Github - https://github.com/
 Git - https://git-scm.com/
 
-﻿
 Bootstrap - http://getbootstrap.com/
-Foundation
+Foundation - http://foundation.zurb.com/
+US Design Standards - https://playbook.cio.gov/designstandards/
+
 Base CSS
 You Might Not Need jQuery
 Can I Use
+HTML5 Please - http://html5please.com/
+
 Sass - http://sass-lang.com/guide
+
+HTML5 Please - https://html5boilerplate.com/
 
 CSS Stats - http://www.cssstats.com/
 StyleStats - http://www.stylestats.org/
@@ -55,7 +60,7 @@ Brackets
           csslint
           extensions rating
          
-Sublime Text
+Sublime Text~
      Extensions:
          
 Atom
@@ -85,7 +90,7 @@ nginx
 PHP
 Ruby
 
-Cloud 9 - https://c9.io/
+Cloud 9~ - https://c9.io/
 
 BuiltWith - https://builtwith.com/
 GT Metrix - https://gtmetrix.com/
@@ -97,23 +102,28 @@ YSlow
 Wordpress - 
      Plug-Ins:
      
-    
-     _underscores - http://underscores.me/
+  
+_underscores - http://underscores.me/
 
-Helpscout - 
+Helpscout~ - 
 
-Trello - 
+Trello~ - 
 
-Basecamp - https://basecamp.com/
+Basecamp~ - https://basecamp.com/
 
-Wunderlist - https://www.wunderlist.com/
+Wunderlist~ - https://www.wunderlist.com/
 
-
+Browser Testing - 
+Manymo - https://www.manymo.com/emulators
+iPhone4 - http://iphone4simulator.com/
+iPhone5 - http://iphone5csimulator.com/
+Browserling~ - https://www.browserling.com/
+Browsershots~ - http://browsershots.org/
 
 Browser - 
 
 Google Chrome - https://www.google.com/chrome/
-      Extensions
+     Extensions
      Web Developer
      uBlock Origin
      SimpleExtManager
