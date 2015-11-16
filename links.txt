@@ -15,6 +15,8 @@ Git - https://git-scm.com/
 
 CodePen - http://codepen.io/
 
+StackShare - http://stackshare.io/
+
 JavaScripting - http://www.javascripting.com/
 
 TinyPNG - https://tinypng.com/
