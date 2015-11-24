@@ -10,6 +10,8 @@ Front End Handbook - http://www.frontendhandbook.com/
 
 Evernote - https://evernote.com/
 
+DiffChecker - https://www.diffchecker.com/
+
 Node.js - https://nodejs.org/en/
 
 Github - https://github.com/
