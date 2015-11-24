@@ -6,6 +6,8 @@ Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 Google - https://www.google.com/
 Google Developers - https://developers.google.com/web/tools/
 
+Front End Handbook - http://www.frontendhandbook.com/
+
 Evernote - https://evernote.com/
 
 Node.js - https://nodejs.org/en/
