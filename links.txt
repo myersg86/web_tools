@@ -40,10 +40,13 @@ You Might Not Need jQuery - http://youmightnotneedjquery.com/
 Can I Use - http://caniuse.com/
 HTML5 Please - http://html5please.com/
 
+SMACSS - https://smacss.com/
+
 Sass - http://sass-lang.com/guide
+
 CSS Stats - http://www.cssstats.com/
 StyleStats - http://www.stylestats.org/
-SMACSS - https://smacss.com/
+StylifyMe - http://stylifyme.com/
 
 Jekyll - https://jekyllrb.com/docs/home/
 
