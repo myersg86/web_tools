@@ -47,6 +47,8 @@ Sass - http://sass-lang.com/guide
 CSS Stats - http://www.cssstats.com/
 StyleStats - http://www.stylestats.org/
 StylifyMe - http://stylifyme.com/
+Colours - http://webcolourdata.com/
+Kuler - https://color.adobe.com/
 
 Jekyll - https://jekyllrb.com/docs/home/
 
