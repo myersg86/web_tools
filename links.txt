@@ -164,6 +164,8 @@ Google Chrome - https://www.google.com/chrome/
      Appspector
      Builtwith
      W3School Hider
+     LivePage
+     HackerTarget.com IP Tools
      
 Mozilla Firefox - https://www.mozilla.org/en-US/firefox/new/
      Extentions:
