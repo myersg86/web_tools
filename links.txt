@@ -98,7 +98,6 @@ Atom - https://atom.io/
          atom-jshint
          autoclose-html
          autoprefixer
-         color-picker
          highlight-line
          highlight-selected
          jshint
