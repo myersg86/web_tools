@@ -121,9 +121,12 @@ Ruby
 Cloud 9~ - https://c9.io/
 
 BuiltWith - https://builtwith.com/
+
+Web Page Test - http://www.webpagetest.org/
 GT Metrix - https://gtmetrix.com/
 Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
-Web Page Test
+
+
 YSlow
 
 
@@ -142,16 +145,20 @@ Basecamp~ - https://basecamp.com/
 Wunderlist~ - https://www.wunderlist.com/
 
 Browser Testing - 
+View Like Us - http://www.viewlike.us/
 Manymo - https://www.manymo.com/emulators
 iPhone4 - http://iphone4simulator.com/
 iPhone5 - http://iphone5csimulator.com/
+Ish (Brad Frost) - http://bradfrost.com/demo/ish/
 Browserling~ - https://www.browserling.com/
 Browsershots~ - http://browsershots.org/
+
 
 Browser - 
 
 Google Chrome - https://www.google.com/chrome/
      Extensions
+     Appspector
      Web Developer
      uBlock Origin
      SimpleExtManager
