@@ -12,6 +12,8 @@ Evernote - https://evernote.com/
 
 DiffChecker - https://www.diffchecker.com/
 
+Stock Photography - http://www.sitebuilderreport.com/stock-up
+
 Node.js - https://nodejs.org/en/
 
 Github - https://github.com/
@@ -66,7 +68,6 @@ LXDE - http://lxde.org/
 
 TLP - http://linrunner.de/en/tlp/tlp.html
 Pithos - https://github.com/pithos/pithos
-
 
 Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
 
