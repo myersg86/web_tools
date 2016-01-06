@@ -38,8 +38,9 @@ Lets Encrypt - https://letsencrypt.org/
 
 Bootstrap - http://getbootstrap.com/
 Foundation - http://foundation.zurb.com/
+
 US Design Standards - https://playbook.cio.gov/designstandards/
-Base CSS
+Best Practices - CSS - https://www.reddit.com/r/learnprogramming/comments/3ywzzg/a_small_list_of_publicly_available_css_best/
 
 You Might Not Need jQuery - http://youmightnotneedjquery.com/
 Can I Use - http://caniuse.com/
