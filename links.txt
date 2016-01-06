@@ -33,6 +33,9 @@ Toolbox - http://thetoolbox.cc/
 
 HTML5 Boilerplate - https://html5boilerplate.com/
 
+SSL For Free - https://www.sslforfree.com/
+Lets Encrypt - https://letsencrypt.org/
+
 Bootstrap - http://getbootstrap.com/
 Foundation - http://foundation.zurb.com/
 US Design Standards - https://playbook.cio.gov/designstandards/
@@ -154,28 +157,32 @@ Ish (Brad Frost) - http://bradfrost.com/demo/ish/
 Browserling~ - https://www.browserling.com/
 Browsershots~ - http://browsershots.org/
 
+Chrome Apps -
+Secure Shell
+Feedly
+Caret
+Polarr Photo Editor 3
 
 Browser - 
 
 Google Chrome - https://www.google.com/chrome/
      Extensions
      Appspector
+     ColorZilla
      Web Developer
      uBlock Origin
      SimpleExtManager
-     TooManyTabs
      Evernote Web Clipper
      Nimbus
      Ghostery
      HTTPS Everywhere
-     Appspector
      Builtwith
      W3School Hider
-     LivePage
      HackerTarget.com IP Tools
      
 Mozilla Firefox - https://www.mozilla.org/en-US/firefox/new/
      Extentions:
+     ColorZilla
      Dust-Me Selectors
      CSS Usage
      Firebug
