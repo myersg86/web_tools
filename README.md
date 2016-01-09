@@ -1,46 +1,53 @@
-# listoftools
+Resources:
+----------
 
-List of tools I use and enjoy
+**Information:**
 
-Mozilla Developer Network - https://developer.mozilla.org/en-US/
+ - Google Search - https://www.google.com/
+ - Mozilla Developer Network - https://developer.mozilla.org/en-US/
+ - Google Developers - https://developers.google.com/web/tools/
+ - Front End Handbook - http://www.frontendhandbook.com/
+ - CSS Tricks - https://css-tricks.com/
+ - Toolbox - http://thetoolbox.cc/
+ - You Might Not Need jQuery - http://youmightnotneedjquery.com/
 
-Google Search - https://www.google.com/
 
-Google Developers - https://developers.google.com/web/tools/
+Photography:
 
-Front End Handbook - http://www.frontendhandbook.com/
+ - Stock Photography - http://www.sitebuilderreport.com/stock-up
+
+Web-Based (In-Browser) Tools:
+
+ - CodePen - http://codepen.io/
+ - DiffChecker - https://www.diffchecker.com/
+ - StackEdit (Writing Markdown) - https://stackedit.io/editor
+ - Dirty Markup - http://www.dirtymarkup.com/
+ - BuiltWith Technology Profiler - http://builtwith.com/
+ - Can I Use - http://caniuse.com/
+ - HTML5 Please - http://html5please.com/
+ - Image Compression TinyPNG - https://tinypng.com/ or https://tinyjpg.com/
+ - CSS Stats - http://www.cssstats.com/
+ - StyleStats - http://www.stylestats.org/
+ - StylifyMe - http://stylifyme.com/
+ - Colours - http://webcolourdata.com/
+ - Kuler - https://color.adobe.com/
+ - 
 
 Evernote - https://evernote.com/
-
-DiffChecker - https://www.diffchecker.com/
-
-Stock Photography - http://www.sitebuilderreport.com/stock-up
-
 Node.js - https://nodejs.org/en/
 
-Github - https://github.com/
 Git - https://git-scm.com/
-
-CodePen - http://codepen.io/
-
-StackShare - http://stackshare.io/
+Github - https://github.com/
 
 JavaScripting - http://www.javascripting.com/
 ToDoMVC - http://todomvc.com/
 
-TinyPNG - https://tinypng.com/
-
-Dirty Markup - http://www.dirtymarkup.com/
-Toolbox - http://thetoolbox.cc/
-
-HTML5 Boilerplate - https://html5boilerplate.com/
-
 SSL For Free - https://www.sslforfree.com/
 Lets Encrypt - https://letsencrypt.org/
 
+HTML5 Boilerplate - https://html5boilerplate.com/
 Bootstrap - http://getbootstrap.com/
 Foundation - http://foundation.zurb.com/
-
 
 CSS Best Practices:
 
@@ -48,23 +55,13 @@ CSS Best Practices:
  - Google - https://google.github.io/styleguide/htmlcssguide.xml
  - One of the creators of Twitter Bootstrap and current Director of Design at GitHub - http://codeguide.co/
  - CSS Wizardry - http://cssguidelin.es/
- - AirBNB - https://github.com/airbnb/css
+ - AirBNB - https://github.com/airbnb/cs
+ - SMACSS - https://smacss.com/
 
-You Might Not Need jQuery - http://youmightnotneedjquery.com/
-Can I Use - http://caniuse.com/
-HTML5 Please - http://html5please.com/
 
-SMACSS - https://smacss.com/
 
-CSS Tricks - https://css-tricks.com/
 
 Sass - http://sass-lang.com/guide
-
-CSS Stats - http://www.cssstats.com/
-StyleStats - http://www.stylestats.org/
-StylifyMe - http://stylifyme.com/
-Colours - http://webcolourdata.com/
-Kuler - https://color.adobe.com/
 
 Jekyll - https://jekyllrb.com/docs/home/
 
@@ -132,13 +129,10 @@ Ruby
 
 Cloud 9~ - https://c9.io/
 
-BuiltWith - https://builtwith.com/
-
+Testing/Analysis:
 Web Page Test - http://www.webpagetest.org/
 GT Metrix - https://gtmetrix.com/
 Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
-
-
 YSlow
 
 
@@ -156,13 +150,15 @@ Basecamp~ - https://basecamp.com/
 
 Wunderlist~ - https://www.wunderlist.com/
 
-Browser Testing - 
-View Like Us - http://www.viewlike.us/
-Manymo - https://www.manymo.com/emulators
-iPhone4 - http://iphone4simulator.com/
-iPhone5 - http://iphone5csimulator.com/
-Ish (Brad Frost) - http://bradfrost.com/demo/ish/
-Browserling~ - https://www.browserling.com/
+**Browser Testing** - 
+
+ - View Like Us - http://www.viewlike.us/
+ - Manymo - https://www.manymo.com/emulators
+ - iPhone4 - http://iphone4simulator.com/
+ - iPhone5 - http://iphone5csimulator.com/
+ - Ish (Brad Frost) - http://bradfrost.com/demo/ish/
+ - Browserling~ - https://www.browserling.com/
+ - Browsershots - 
 
 Chrome Apps -
 Secure Shell
@@ -172,26 +168,27 @@ Polarr Photo Editor 3
 
 Browser - 
 
-Google Chrome - https://www.google.com/chrome/
-     Extensions
-     Appspector
-     ColorZilla
-     Web Developer
-     uBlock Origin
-     SimpleExtManager
-     Evernote Web Clipper
-     Nimbus
-     Ghostery
-     HTTPS Everywhere
-     Builtwith
-     W3School Hider
-     HackerTarget.com IP Tools
+**Google Chrome** - https://www.google.com/chrome/
+     *Extensions*
      
-Mozilla Firefox - https://www.mozilla.org/en-US/firefox/new/
+ - Appspector
+ - ColorZilla
+ - Web Developer
+ - uBlock Origin
+ - SimpleExtManager
+ - Evernote Web Clipper
+ - Nimbus
+ - Ghostery
+ - HTTPS Everywhere
+ - W3School Hider
+
+**Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
-     Extentions:
-     ColorZilla
-     Dust-Me Selectors
-     CSS Usage
-     Firebug
-     Web Developer
+
+Extentions:
+ 
+ - ColorZilla
+ - Firebug
+ - Dust-Me Selectors 
+ - CSS Usage
+ - Web Developer
