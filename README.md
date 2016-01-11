@@ -49,7 +49,7 @@ HTML5 Boilerplate - https://html5boilerplate.com/
 Bootstrap - http://getbootstrap.com/
 Foundation - http://foundation.zurb.com/
 
-CSS Best Practices:
+**CSS Best Practices:**
 
  - US Design Standards - https://playbook.cio.gov/designstandards/
  - Google - https://google.github.io/styleguide/htmlcssguide.xml
@@ -65,7 +65,7 @@ Jekyll - https://jekyllrb.com/docs/home/
 Linux - https://www.linux.com/
 Ubuntu - http://www.ubuntu.com/
 
-Desktop Environments:
+**Desktop Environments:**
 
  - GNOME - https://www.gnome.org/
  - Ubuntu MATE - https://ubuntu-mate.org/
