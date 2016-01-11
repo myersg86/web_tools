@@ -10,7 +10,10 @@ Resources:
  - CSS Tricks - https://css-tricks.com/
  - Toolbox - http://thetoolbox.cc/
  - You Might Not Need jQuery - http://youmightnotneedjquery.com/
-
+ - JavaScripting - http://www.javascripting.com/
+ - Github - https://github.com/
+ - SSL For Free - https://www.sslforfree.com/
+ - Lets Encrypt - https://letsencrypt.org/
 
 Photography:
 
@@ -33,17 +36,14 @@ Web-Based (In-Browser) Tools:
  - Kuler - https://color.adobe.com/
  - 
 
-Evernote - https://evernote.com/
-Node.js - https://nodejs.org/en/
+
 
 Git - https://git-scm.com/
-Github - https://github.com/
 
-JavaScripting - http://www.javascripting.com/
+Evernote - https://evernote.com/
+
 ToDoMVC - http://todomvc.com/
 
-SSL For Free - https://www.sslforfree.com/
-Lets Encrypt - https://letsencrypt.org/
 
 HTML5 Boilerplate - https://html5boilerplate.com/
 Bootstrap - http://getbootstrap.com/
@@ -58,14 +58,9 @@ CSS Best Practices:
  - AirBNB - https://github.com/airbnb/cs
  - SMACSS - https://smacss.com/
 
-
-
-
 Sass - http://sass-lang.com/guide
 
 Jekyll - https://jekyllrb.com/docs/home/
-
-
 
 Linux - https://www.linux.com/
 Ubuntu - http://www.ubuntu.com/
@@ -82,29 +77,31 @@ Pithos - https://github.com/pithos/pithos
 
 Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
 
-
-
 JavaScript
+PHP
+Ruby
 
+Node.js - https://nodejs.org/en/
 Express.js - http://expressjs.com/
-
 MongoDB - https://www.mongodb.org/
 CouchDB - https://couchdb.apache.org/
 MySQL - https://www.mysql.com/
 
-Brackets - http://brackets.io/
+**Brackets** - http://brackets.io/
      Extensions:
           autoprefixer
           beautify
           csslint
           extensions rating
          
-Sublime Text (older systems) - https://www.sublimetext.com/
+**Sublime Text** (older systems) - https://www.sublimetext.com/
      Extensions:
          
-Atom - https://atom.io/
-     Extensions:
-         atom-beautify
+**Atom** - https://atom.io/
+     
+
+ - Extensions:
+		atom-beautify
          atom-jshint
          autoclose-html
          autoprefixer
@@ -124,28 +121,25 @@ LEMP
 Apache
 nginx 
 
-PHP
-Ruby
+
 
 Cloud 9~ - https://c9.io/
 
-Testing/Analysis:
+**Testing/Analysis:**
 Web Page Test - http://www.webpagetest.org/
 GT Metrix - https://gtmetrix.com/
 Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
 YSlow
 
 
-Wordpress - 
+**Wordpress -** 
      Plug-Ins:
-     
-Wordpress Codex - https://codex.wordpress.org/     
+
+Wordpress Codex - https://codex.wordpress.org/          
 _underscores - http://underscores.me/
 
-Helpscout~ - 
-
-Trello~ - 
-
+Helpscout - 
+ 
 Basecamp~ - https://basecamp.com/
 
 Wunderlist~ - https://www.wunderlist.com/
@@ -160,11 +154,12 @@ Wunderlist~ - https://www.wunderlist.com/
  - Browserling~ - https://www.browserling.com/
  - Browsershots - 
 
-Chrome Apps -
-Secure Shell
-Feedly
-Caret
-Polarr Photo Editor 3
+**Chrome Apps** -
+
+ - Secure Shell
+ - Feedly
+ - Caret
+ - Polarr Photo Editor 3
 
 Browser - 
 
