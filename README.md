@@ -178,6 +178,7 @@ Browser -
  - W3School Hider
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
+
 Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 
 Extentions:
