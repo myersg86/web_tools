@@ -15,11 +15,11 @@ Resources:
  - SSL For Free - https://www.sslforfree.com/
  - Lets Encrypt - https://letsencrypt.org/
 
-Photography:
+**Photography:**
 
  - Stock Photography - http://www.sitebuilderreport.com/stock-up
 
-Web-Based (In-Browser) Tools:
+**Web-Based (In-Browser) Tools:**
 
  - CodePen - http://codepen.io/
  - DiffChecker - https://www.diffchecker.com/
