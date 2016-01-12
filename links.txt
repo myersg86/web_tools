@@ -62,6 +62,7 @@ LXDE - http://lxde.org/
 TLP - http://linrunner.de/en/tlp/tlp.html Pithos - https://github.com/pithos/pithos
 
 Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
+Evince (PDF) - https://wiki.gnome.org/Apps/Evince
 
 JavaScript PHP Ruby
 
@@ -69,12 +70,14 @@ Node.js - https://nodejs.org/en/ Express.js - http://expressjs.com/ MongoDB - ht
 
 Brackets - http://brackets.io/ Extensions: autoprefixer beautify csslint extensions rating
 
-Sublime Text (older systems) - https://www.sublimetext.com/ Extensions:
+Sublime Text  - https://www.sublimetext.com/ 
+Extensions:
 
 Atom - https://atom.io/
-
 Extensions: atom-beautify atom-jshint autoclose-html autoprefixer highlight-line highlight-selected jshint linter linter-csslint linter-htmlhint linter-jshint linter-scsshint minimap
-LAMP LEMP
+
+LAMP 
+LEMP
 
 Apache nginx
 
