@@ -72,6 +72,16 @@ Ubuntu - http://www.ubuntu.com/
  - Xfce - http://www.xfce.org/
  - LXDE - http://lxde.org/
 
+Digital Ocean - https://digitalocean.com
+Digital Ocean User Script Github - https://github.com/digitalocean/do_user_scripts
+X2Go - http://wiki.x2go.org/doku.php
+
+Monit - https://mmonit.com/monit/documentation/monit.html
+
+Syncthing - https://syncthing.net/
+OwnCloud - https://owncloud.org/
+
+
 TLP - http://linrunner.de/en/tlp/tlp.html
 Pithos - https://github.com/pithos/pithos
 
