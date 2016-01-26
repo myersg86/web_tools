@@ -1,12 +1,13 @@
-Resources:
-----------
 
 
 tool (n) -  something used in performing an operation or necessary in the practice of a vocation or profession 
 
-Any Job Is Easy, If You Have the Right Tools
+###Any Job Is Easy, If You Have the Right Tools
 
-**Information:**
+
+
+
+**Resources:**
 
  - Google Search - https://www.google.com/
  - Mozilla Developer Network - https://developer.mozilla.org/en-US/
