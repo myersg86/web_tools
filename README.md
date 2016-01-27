@@ -14,7 +14,6 @@ tool (n) -  something used in performing an operation or necessary in the practi
  - Google Developers - https://developers.google.com/web/tools/
  - Front End Handbook - http://www.frontendhandbook.com/
  - CSS Tricks - https://css-tricks.com/
- - Toolbox - http://thetoolbox.cc/
  - You Might Not Need jQuery - http://youmightnotneedjquery.com/
  - JavaScripting - http://www.javascripting.com/
  - Github - https://github.com/
@@ -28,6 +27,8 @@ tool (n) -  something used in performing an operation or necessary in the practi
 **Web-Based (In-Browser) Tools:**
 
  - CodePen - http://codepen.io/
+ - Dans Tools - http://www.danstools.com/
+ - Toolbox - http://thetoolbox.cc/
  - DiffChecker - https://www.diffchecker.com/
  - StackEdit (Writing Markdown) - https://stackedit.io/editor
  - Dirty Markup - http://www.dirtymarkup.com/
@@ -40,9 +41,6 @@ tool (n) -  something used in performing an operation or necessary in the practi
  - StylifyMe - http://stylifyme.com/
  - Colours - http://webcolourdata.com/
  - Kuler - https://color.adobe.com/
- - 
-
-
 
 Git - https://git-scm.com/
 
@@ -50,9 +48,10 @@ Evernote - https://evernote.com/
 
 ToDoMVC - http://todomvc.com/
 
-
 HTML5 Boilerplate - https://html5boilerplate.com/
+
 Bootstrap - http://getbootstrap.com/
+
 Foundation - http://foundation.zurb.com/
 
 **CSS Best Practices:**
@@ -69,6 +68,7 @@ Sass - http://sass-lang.com/guide
 Jekyll - https://jekyllrb.com/docs/home/
 
 Linux - https://www.linux.com/
+
 Ubuntu - http://www.ubuntu.com/
 
 **Desktop Environments:**
@@ -79,45 +79,58 @@ Ubuntu - http://www.ubuntu.com/
  - LXDE - http://lxde.org/
 
 Digital Ocean - https://digitalocean.com
-Digital Ocean User Script Github - https://github.com/digitalocean/do_user_scripts
+
+Digital Ocean User Scripts Github - https://github.com/digitalocean/do_user_scripts
+
 X2Go - http://wiki.x2go.org/doku.php
 
 Monit - https://mmonit.com/monit/documentation/monit.html
 
 Syncthing - https://syncthing.net/
+
 OwnCloud - https://owncloud.org/
 
+Haroopad - http://pad.haroopress.com/user.html
 
 TLP - http://linrunner.de/en/tlp/tlp.html
+
 Pithos - https://github.com/pithos/pithos
 
 Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
 
 JavaScript
+
 PHP
+
 Ruby
 
 Node.js - https://nodejs.org/en/
+
 Express.js - http://expressjs.com/
+
 MongoDB - https://www.mongodb.org/
+
 CouchDB - https://couchdb.apache.org/
+
 MySQL - https://www.mysql.com/
 
 **Brackets** - http://brackets.io/
-     Extensions:
+ - Extensions:
           autoprefixer
           beautify
           csslint
           extensions rating
          
-**Sublime Text** (older systems) - https://www.sublimetext.com/
-     Extensions:
+**Sublime Text** -  https://www.sublimetext.com/
+
+ - Extensions:
+		Package Control
          
 **Atom** - https://atom.io/
      
 
  - Extensions:
-		atom-beautify
+		 atom-beautify
          atom-jshint
          autoclose-html
          autoprefixer
@@ -135,63 +148,59 @@ LAMP
 LEMP
 
 Apache
-nginx 
+nginx
 
-
-
-Cloud 9~ - https://c9.io/
+CodeAnywhere - 
+Cloud 9 - https://c9.io/
 
 **Testing/Analysis:**
+
 Web Page Test - http://www.webpagetest.org/
+
 GT Metrix - https://gtmetrix.com/
+
 Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
 YSlow
 
 
 **Wordpress -** 
-     Plug-Ins:
+ - Wordpress Codex - https://codex.wordpress.org/
+ - _underscores - http://underscores.me/
+ - Plug-Ins:
+		akismet
+        limit login attempts
+        wordfence
 
-Wordpress Codex - https://codex.wordpress.org/          
-_underscores - http://underscores.me/
+Helpscout
 
-Helpscout - 
- 
-Basecamp~ - https://basecamp.com/
+Basecamp - https://basecamp.com/
 
-Wunderlist~ - https://www.wunderlist.com/
+Wunderlist - https://www.wunderlist.com/
 
-**Browser Testing** - 
+**Browser Testing** -
 
+ - Responsinator - https://www.responsinator.com/
+ - Browsershots - http://browsershots.org/
  - View Like Us - http://www.viewlike.us/
+ - Ish (Brad Frost) - http://bradfrost.com/demo/ish/
  - Manymo - https://www.manymo.com/emulators
  - iPhone4 - http://iphone4simulator.com/
  - iPhone5 - http://iphone5csimulator.com/
- - Ish (Brad Frost) - http://bradfrost.com/demo/ish/
- - Browserling~ - https://www.browserling.com/
- - Browsershots - 
+ - Browserling - https://www.browserling.com/
 
-**Chrome Apps** -
-
- - Secure Shell
- - Feedly
- - Caret
- - Polarr Photo Editor 3
-
-Browser - 
 
 **Google Chrome** - https://www.google.com/chrome/
-     *Extensions*
-     
- - Appspector
- - ColorZilla
- - Web Developer
- - uBlock Origin
- - SimpleExtManager
- - Evernote Web Clipper
- - Nimbus
- - Ghostery
- - HTTPS Everywhere
- - W3School Hider
+ - *Extensions*
+    	 Appspector
+ 		ColorZilla
+ 		Web Developer
+ 		uBlock Origin
+ 		SimpleExtManager
+ 		Evernote Web Clipper
+ 		Nimbus
+ 		Ghostery
+ 		HTTPS Everywhere
+ 		W3School Hider
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
