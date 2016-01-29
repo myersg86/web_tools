@@ -5,8 +5,6 @@ tool (n) -  something used in performing an operation or necessary in the practi
 ###Any Job Is Easy, If You Have the Right Tools
 
 
-
-
 **Resources:**
 
  - Google Search - https://www.google.com/
@@ -19,6 +17,7 @@ tool (n) -  something used in performing an operation or necessary in the practi
  - Github - https://github.com/
  - SSL For Free - https://www.sslforfree.com/
  - Lets Encrypt - https://letsencrypt.org/
+ - ToDoMVC - http://todomvc.com/
 
 **Photography:**
 
@@ -42,20 +41,20 @@ tool (n) -  something used in performing an operation or necessary in the practi
  - Colours - http://webcolourdata.com/
  - Kuler - https://color.adobe.com/
 
-Git - https://git-scm.com/
+**Git** - https://git-scm.com/
 
-Evernote - https://evernote.com/
+**Evernote** - https://evernote.com/
 
-ToDoMVC - http://todomvc.com/
 
-HTML5 Boilerplate - https://html5boilerplate.com/
-
-Bootstrap - http://getbootstrap.com/
-
-Foundation - http://foundation.zurb.com/
+###**Frameworks & Content Management Systems**
+ - HTML5 Boilerplate - https://html5boilerplate.com/
+ - Bootstrap - http://getbootstrap.com/
+ - Foundation - http://foundation.zurb.com/
+ - Jekyll - https://jekyllrb.com/docs/home/
 
 **CSS Best Practices:**
 
+ - Sass - http://sass-lang.com/guide
  - US Design Standards - https://playbook.cio.gov/designstandards/
  - Google - https://google.github.io/styleguide/htmlcssguide.xml
  - One of the creators of Twitter Bootstrap and current Director of Design at GitHub - http://codeguide.co/
@@ -63,20 +62,17 @@ Foundation - http://foundation.zurb.com/
  - AirBNB - https://github.com/airbnb/cs
  - SMACSS - https://smacss.com/
 
-Sass - http://sass-lang.com/guide
 
-Jekyll - https://jekyllrb.com/docs/home/
 
-Linux - https://www.linux.com/
+###**Linux** - https://www.linux.com/
 
-Ubuntu - http://www.ubuntu.com/
+**Ubuntu** - http://www.ubuntu.com/
+ - **Desktop Environments:**
 
-**Desktop Environments:**
-
- - GNOME - https://www.gnome.org/
- - Ubuntu MATE - https://ubuntu-mate.org/
- - Xfce - http://www.xfce.org/
- - LXDE - http://lxde.org/
+	   GNOME - https://www.gnome.org/
+       Ubuntu MATE - https://ubuntu-mate.org/
+       Xfce - http://www.xfce.org/
+       LXDE - http://lxde.org/
 
 Digital Ocean - https://digitalocean.com
 
@@ -177,17 +173,7 @@ Basecamp - https://basecamp.com/
 
 Wunderlist - https://www.wunderlist.com/
 
-**Browser Testing** -
-
- - Responsinator - https://www.responsinator.com/
- - Browsershots - http://browsershots.org/
- - View Like Us - http://www.viewlike.us/
- - Ish (Brad Frost) - http://bradfrost.com/demo/ish/
- - Manymo - https://www.manymo.com/emulators
- - iPhone4 - http://iphone4simulator.com/
- - iPhone5 - http://iphone5csimulator.com/
- - Browserling - https://www.browserling.com/
-
+###**Web Broswers**
 
 **Google Chrome** - https://www.google.com/chrome/
  - *Extensions*
@@ -204,12 +190,21 @@ Wunderlist - https://www.wunderlist.com/
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
-Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
+- Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
+- Extentions:
 
-Extentions:
- 
- - ColorZilla
- - Firebug
- - Dust-Me Selectors 
- - CSS Usage
- - Web Developer
+		 ColorZilla
+ 		Firebug
+ 		CSS Usage
+ 		Web Developer
+
+**Browser Testing** -
+
+ - Responsinator - https://www.responsinator.com/
+ - Browsershots - http://browsershots.org/
+ - View Like Us - http://www.viewlike.us/
+ - Ish (Brad Frost) - http://bradfrost.com/demo/ish/
+ - Manymo - https://www.manymo.com/emulators
+ - iPhone4 - http://iphone4simulator.com/
+ - iPhone5 - http://iphone5csimulator.com/
+ - Browserling - https://www.browserling.com/
