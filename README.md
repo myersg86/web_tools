@@ -72,49 +72,49 @@
        Xfce - http://www.xfce.org/
        LXDE - http://lxde.org/
 
-Digital Ocean - https://digitalocean.com
+**Digital Ocean** - https://digitalocean.com
 
-Digital Ocean User Scripts Github - https://github.com/digitalocean/do_user_scripts
+-    Digital Ocean User Scripts Github - https://github.com/digitalocean/do_user_scripts
 
-X2Go - http://wiki.x2go.org/doku.php
+**X2Go** - http://wiki.x2go.org/doku.php
 
-Monit - https://mmonit.com/monit/documentation/monit.html
+**Monit** - https://mmonit.com/monit/documentation/monit.html
 
-Syncthing - https://syncthing.net/
+**Syncthing** - https://syncthing.net/
 
-OwnCloud - https://owncloud.org/
+**OwnCloud** - https://owncloud.org/
 
-Haroopad - http://pad.haroopress.com/user.html
+**Haroopad** - http://pad.haroopress.com/user.html
 
-TLP - http://linrunner.de/en/tlp/tlp.html
+**TLP** - http://linrunner.de/en/tlp/tlp.html
 
-Pithos - https://github.com/pithos/pithos
+**Pithos** - https://github.com/pithos/pithos
 
-Freemind - http://freemind.sourceforge.net/wiki/index.php/Main_Page
+**Freemind** - http://freemind.sourceforge.net/wiki/index.php/Main_Page
 
-JavaScript
+**JavaScript**
 
-PHP
+**PHP**
 
-Ruby
+**Ruby**
 
-Node.js - https://nodejs.org/en/
+**Node.js** - https://nodejs.org/en/
 
-Express.js - http://expressjs.com/
+**Express.js** - http://expressjs.com/
 
-MongoDB - https://www.mongodb.org/
+**MySQL** - https://www.mysql.com/
 
-CouchDB - https://couchdb.apache.org/
+**MongoDB** - https://www.mongodb.org/
 
-MySQL - https://www.mysql.com/
+**CouchDB** - https://couchdb.apache.org/
 
 **Brackets** - http://brackets.io/
 
--   Extensions:
-          autoprefixer
-          beautify
-          csslint
-          extensions rating
+     **Extensions:**
+     autoprefixer
+     beautify
+     csslint
+     extensions rating
 
 **Sublime Text** -  https://www.sublimetext.com/
 
@@ -123,81 +123,83 @@ MySQL - https://www.mysql.com/
 
 **Atom** - https://atom.io/
 
--   Extensions:
-       atom-beautify
-       atom-jshint
-       autoclose-html
-       autoprefixer
-       highlight-line
-       highlight-selected
-       jshint
-       linter
-       linter-csslint
-       linter-htmlhint
-       linter-jshint
-       linter-scsshint
-       minimap
+     **Extensions:**
+     atom-beautify
+     atom-jshint
+     autoclose-html
+     autoprefixer
+     highlight-line
+     highlight-selected
+     jshint
+     linter
+     linter-csslint
+     linter-htmlhint
+     linter-jshint
+     linter-scsshint
+     minimap
 
-LAMP
-LEMP
+**LAMP**
+**LEMP**
 
-Apache
-nginx
+**Apache**
+**nginx**
 
-CodeAnywhere -
-Cloud 9 - https://c9.io/
+**CodeAnywhere** -
+**Cloud 9** - https://c9.io/
 
 **Testing/Analysis:**
 
-Web Page Test - http://www.webpagetest.org/
+**Web Page Test** - http://www.webpagetest.org/
 
-GT Metrix - https://gtmetrix.com/
+**GT Metrix** - https://gtmetrix.com/
 
-Google Page Speed - https://developers.google.com/speed/pagespeed/insights/
+**Google Page Speed** - https://developers.google.com/speed/pagespeed/insights/
 YSlow
 
 **Wordpress -**
 Wordpress Codex - https://codex.wordpress.org/
 _underscores - http://underscores.me/
 
--   Plug-Ins:
-        akismet
-        limit login attempts
-        wordfence
+     Plug-Ins:
+     akismet
+     limit login attempts
+     wordfence
 
-Helpscout
+**Helpscout**
 
-Basecamp - https://basecamp.com/
+**Basecamp** - https://basecamp.com/
 
-Wunderlist - https://www.wunderlist.com/
+**Wunderlist** - https://www.wunderlist.com/
 
 ###**Web Broswers**
 
 **Google Chrome** - https://www.google.com/chrome/
 
--   *Extensions*
-       Appspector
-       ColorZilla
-       Web Developer
-       uBlock Origin
-       SimpleExtManager
-       Evernote Web Clipper
-       Nimbus
-       Ghostery
-       HTTPS Everywhere
-       W3Schools Hider
+     **Extensions**
+     Appspector
+     ColorZilla
+     Web Developer
+     uBlock Origin
+     SimpleExtManager
+     Evernote Web Clipper
+     Nimbus
+     Ghostery
+     HTTPS Everywhere
+     Too Many Tabs
+     The Great Suspender
+     Live CSS Editor
+     W3Schools Hider
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
 Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 
--   Extentions:
-
-
-       ColorZilla
-       Firebug
-       CSS Usage
-       Web Developer
+     **Extensions**
+     ColorZilla
+     Firebug
+     CSS Usage
+     Dust-Me Selectors
+     Web Developer
 
 **Browser Testing** -
 
