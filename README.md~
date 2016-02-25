@@ -157,17 +157,13 @@
 YSlow
 
 **Wordpress -**
+Wordpress Codex - https://codex.wordpress.org/
+_underscores - http://underscores.me/
 
-- Wordpress Codex - https://codex.wordpress.org/
-- _underscores - http://underscores.me/
-- Genesis Framework - http://my.studiopress.com/themes/genesis/
-
-      Plug-Ins:
-      akismet
-      developer
-      limit login attempts
-      reveal template
-      wordfence
+     Plug-Ins:
+     akismet
+     limit login attempts
+     wordfence
 
 **Helpscout**
 
@@ -215,4 +211,3 @@ Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 -   iPhone4 - http://iphone4simulator.com/
 -   iPhone5 - http://iphone5csimulator.com/
 -   Browserling - https://www.browserling.com/
-
