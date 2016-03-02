@@ -80,6 +80,14 @@
 
 **Monit** - https://mmonit.com/monit/documentation/monit.html
 
+**Bleach Bit** - https://www.bleachbit.org/
+
+**PyRenamer** - https://apps.ubuntu.com/cat/applications/precise/pyrenamer/
+
+**Scribus** - https://www.scribus.net/
+
+**ZenMap** - https://nmap.org/zenmap/
+
 **Syncthing** - https://syncthing.net/
 
 **OwnCloud** - https://owncloud.org/
