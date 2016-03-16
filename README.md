@@ -7,6 +7,7 @@
 -   Google Search - https://www.google.com/
 -   Mozilla Developer Network - https://developer.mozilla.org/en-US/
 -   Google Developers - https://developers.google.com/web/tools/
+-   Google Web Fundamentals - https://developers.google.com/web/fundamentals/?hl=en
 -   Front End Handbook - http://www.frontendhandbook.com/
 -   CSS Tricks - https://css-tricks.com/
 -   You Might Not Need jQuery - http://youmightnotneedjquery.com/
