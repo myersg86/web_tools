@@ -1,6 +1,8 @@
+# listoftools
+
 **tool** (n) -  something that aids in accomplishing a necessary task
 
-###Any Job Is Easy, If You Have the Right Tools
+### Any Job Is Easy, If You Have the Right Tools
 
 **Resources:**
 
@@ -16,6 +18,17 @@
 -   SSL For Free - https://www.sslforfree.com/
 -   Lets Encrypt - https://letsencrypt.org/
 -   ToDoMVC - http://todomvc.com/
+
+**Learning Resources**
+
+-  FreeCodeCamp - https://www.freecodecamp.com
+-  CodeAcademy - https://www.codecademy.com/learn
+-  RegExOne - http://regexone.com/
+-  Bento - https://bento.io/tracks#
+-  Odin - http://www.theodinproject.com/
+-  CodeAcademy - https://www.codecademy.com/
+
+
 
 **Free Photography & Images**
 
@@ -43,7 +56,7 @@
 
 **Evernote** - https://evernote.com/
 
-**Nylas N1** - https://github.com/myersg86/listoftools.git
+**Nylas N1** - https://github.com/nylas/N1
 
 ###**Frameworks & Content Management Systems**
 
@@ -228,4 +241,3 @@ Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 -   iPhone4 - http://iphone4simulator.com/
 -   iPhone5 - http://iphone5csimulator.com/
 -   Browserling - https://www.browserling.com/
-
