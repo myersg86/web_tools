@@ -28,8 +28,6 @@
 -  Odin - http://www.theodinproject.com/
 -  CodeAcademy - https://www.codecademy.com/
 
-
-
 **Free Photography & Images**
 
 -   Stock Photography - http://www.sitebuilderreport.com/stock-up
@@ -52,11 +50,7 @@
 -   Colours - http://webcolourdata.com/
 -   Kuler - https://color.adobe.com/
 
-**Git** - https://git-scm.com/
 
-**Evernote** - https://evernote.com/
-
-**Nylas N1** - https://github.com/nylas/N1
 
 ###**Frameworks & Content Management Systems**
 
@@ -75,46 +69,11 @@
 -   AirBNB - https://github.com/airbnb/cs
 -   SMACSS - https://smacss.com/
 
-###**Linux** - https://www.linux.com/
+**Git** - https://git-scm.com/
 
-**Ubuntu** - http://www.ubuntu.com/
+**Evernote** - https://evernote.com/
 
-**Desktop Environments:**
-
-     GNOME - https://www.gnome.org/
-       Ubuntu MATE - https://ubuntu-mate.org/
-       Xfce - http://www.xfce.org/
-       LXDE - http://lxde.org/
-
-**Digital Ocean** - https://digitalocean.com
-
--    Digital Ocean User Scripts Github - https://github.com/digitalocean/do_user_scripts
-
-**X2Go** - http://wiki.x2go.org/doku.php
-
-**Monit** - https://mmonit.com/monit/documentation/monit.html
-
-**Bleach Bit** - https://www.bleachbit.org/
-
-**PyRenamer** - https://apps.ubuntu.com/cat/applications/precise/pyrenamer/
-
-**Scribus** - https://www.scribus.net/
-
-**ZenMap** - https://nmap.org/zenmap/
-
-**Syncthing** - https://syncthing.net/
-
-**OwnCloud** - https://owncloud.org/
-
-**Haroopad** - http://pad.haroopress.com/user.html
-
-**TLP** - http://linrunner.de/en/tlp/tlp.html
-
-**Pithos** - https://github.com/pithos/pithos
-
-**Freemind** - http://freemind.sourceforge.net/wiki/index.php/Main_Page
-
-**Pinta** - http://pinta-project.com/
+**Nylas N1** - https://github.com/nylas/N1
 
 **JavaScript**
 
@@ -162,12 +121,6 @@
      linter-scsshint
      minimap
 
-**LAMP**
-**LEMP**
-
-**Apache**
-**nginx**
-
 **CodeAnywhere** -
 **Cloud 9** - https://c9.io/
 
@@ -201,13 +154,18 @@ YSlow
 
 **Libre Office** - https://www.libreoffice.org/
 
-###**Web Broswers**
+## **Web Broswers**
 
 **Google Chrome** - https://www.google.com/chrome/
 
+**Chrome Canary** - https://www.google.com/chrome/browser/canary.html
+
+**Chrome Beta** - https://www.google.com/chrome/browser/beta.html
+
+**Chromium (Open Source)** - https://www.chromium.org/
+
      **Extensions**
      Appspector
-     ColorZilla
      Web Developer
      uBlock Origin
      SimpleExtManager
@@ -219,6 +177,7 @@ YSlow
      The Great Suspender
      Live CSS Editor
      W3Schools Hider
+     CSS Dig
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
@@ -235,9 +194,10 @@ Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 
 -   Responsinator - https://www.responsinator.com/
 -   Browsershots - http://browsershots.org/
--   View Like Us - http://www.viewlike.us/
 -   Ish (Brad Frost) - http://bradfrost.com/demo/ish/
 -   Manymo - https://www.manymo.com/emulators
 -   iPhone4 - http://iphone4simulator.com/
 -   iPhone5 - http://iphone5csimulator.com/
 -   Browserling - https://www.browserling.com/
+-   View Like Us - http://www.viewlike.us/
+-   Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/
