@@ -69,6 +69,16 @@
 -   AirBNB - https://github.com/airbnb/cs
 -   SMACSS - https://smacss.com/
 
+**Frameworks**
+
+-	Bootstrap
+	-	http://getbootstrap.com/customize/
+	-	http://stylebootstrap.info/
+	-	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
+	-	http://paintstrap.com/
+	-	http://bootswatchr.com/
+	-	http://paintstrap.com/
+
 **Git** - https://git-scm.com/
 
 **Evernote** - https://evernote.com/
