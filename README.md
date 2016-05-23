@@ -31,6 +31,11 @@
 **Free Photography & Images**
 
 -   Stock Photography - http://www.sitebuilderreport.com/stock-up
+-	https://pixabay.com/ -
+images in the public domain
+-	http://www.istockphoto.com/ -
+paid premium stock photography
+-	https://unsplash.com/ - high-resolution photos licensed under Creative Commons Zero
 
 **Web-Based (In-Browser) Tools:**
 
