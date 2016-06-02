@@ -98,7 +98,7 @@ paid premium stock photography
 
 **Evernote** - https://evernote.com/
 
-**List of Front-end Resources** - https://gist.github.com/manjithd2/44518ba9ba02c04305a2
+**List of Front-end Resources** - https://github.com/dypsilon/frontend-dev-bookmarks
 
 **Node.js** - https://nodejs.org/en/
 
