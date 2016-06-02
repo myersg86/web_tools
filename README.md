@@ -88,31 +88,12 @@ paid premium stock photography
 
 **Evernote** - https://evernote.com/
 
-**Nylas N1** - https://github.com/nylas/N1
-
-**JavaScript**
-
-**PHP**
-
-**Ruby**
+**Paletton**  - https://paletton.com
 
 **Node.js** - https://nodejs.org/en/
 
 **Express.js** - http://expressjs.com/
 
-**MySQL** - https://www.mysql.com/
-
-**MongoDB** - https://www.mongodb.org/
-
-**CouchDB** - https://couchdb.apache.org/
-
-**Brackets** - http://brackets.io/
-
-     **Extensions:**
-     autoprefixer
-     beautify
-     csslint
-     extensions rating
 
 **Sublime Text** -  https://www.sublimetext.com/
 
