@@ -49,12 +49,22 @@ paid premium stock photography
 -   Can I Use - http://caniuse.com/
 -   HTML5 Please - http://html5please.com/
 -   Image Compression TinyPNG - https://tinypng.com/ or https://tinyjpg.com/
+-	Media Query Generator - http://giona.net/tools/css3-mediaquery-generator/
+-	Advanced CSS Processor - http://tools.maxcdn.com/procssor/
+-	CSS Lint - http://csslint.net/
+-
+
 -   CSS Stats - http://www.cssstats.com/
 -   StyleStats - http://www.stylestats.org/
 -   StylifyMe - http://stylifyme.com/
 -   Colours - http://webcolourdata.com/
 -   Kuler - https://color.adobe.com/
-
+-	Paletton  - https://paletton.com
+-	Favicon Generator - http://www.favicomatic.com/
+-	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
+-	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
+-	Autoprefixer - http://pleeease.io/play/
+-
 
 
 ###**Frameworks & Content Management Systems**
@@ -88,7 +98,7 @@ paid premium stock photography
 
 **Evernote** - https://evernote.com/
 
-**Paletton**  - https://paletton.com
+**List of Front-end Resources** - https://gist.github.com/manjithd2/44518ba9ba02c04305a2
 
 **Node.js** - https://nodejs.org/en/
 
@@ -143,6 +153,10 @@ YSlow
       wordfence
 
 **Helpscout**
+
+**TE-XT** - http://www.te-xt.com/
+
+
 
 **Basecamp** - https://basecamp.com/
 
