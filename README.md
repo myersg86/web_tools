@@ -13,6 +13,9 @@
 -   Front End Handbook - http://www.frontendhandbook.com/
 -   CSS Tricks - https://css-tricks.com/
 -   You Might Not Need jQuery - http://youmightnotneedjquery.com/
+-   You Might Not Need jQuery Plugins - http://youmightnotneedjqueryplugins.com/
+-   HTML5 Please - http://html5please.com/
+-   Can I Use - http://caniuse.com/
 -   JavaScripting - http://www.javascripting.com/
 -   Github - https://github.com/
 -   SSL For Free - https://www.sslforfree.com/
