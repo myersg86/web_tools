@@ -24,12 +24,7 @@
 
 **Learning Resources**
 
--  FreeCodeCamp - https://www.freecodecamp.com
--  CodeAcademy - https://www.codecademy.com/learn
--  RegExOne - http://regexone.com/
--  Bento - https://bento.io/tracks#
--  Odin - http://www.theodinproject.com/
--  CodeAcademy - https://www.codecademy.com/
+-	LearnFree - https://github.com/myersg86/learnfree
 
 **Free Photography & Images**
 
