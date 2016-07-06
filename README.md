@@ -50,8 +50,6 @@ paid premium stock photography
 -	Media Query Generator - http://giona.net/tools/css3-mediaquery-generator/
 -	Advanced CSS Processor - http://tools.maxcdn.com/procssor/
 -	CSS Lint - http://csslint.net/
--
-
 -   CSS Stats - http://www.cssstats.com/
 -   StyleStats - http://www.stylestats.org/
 -   StylifyMe - http://stylifyme.com/
@@ -62,7 +60,6 @@ paid premium stock photography
 -	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
 -	Autoprefixer - http://pleeease.io/play/
--
 
 
 ###**Frameworks & Content Management Systems**
