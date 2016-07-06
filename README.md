@@ -64,12 +64,19 @@ paid premium stock photography
 -
 
 
-###**Frameworks & Content Management Systems**
+**Frameworks & Content Management Systems**
 
 -   HTML5 Boilerplate - https://html5boilerplate.com/
--   Bootstrap - http://getbootstrap.com/
 -   Foundation - http://foundation.zurb.com/
 -   Jekyll - https://jekyllrb.com/docs/home/
+-   Wordpress - https://www.wordpress.com/
+-	Bootstrap
+    -	http://getbootstrap.com/customize/
+    -	http://stylebootstrap.info/
+    -	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
+    -	http://paintstrap.com/
+    -	http://bootswatchr.com/
+    -	http://paintstrap.com/
 
 **CSS Best Practices:**
 
@@ -82,16 +89,6 @@ paid premium stock photography
 -   SMACSS - https://smacss.com/
 -	BEM
 
-**Frameworks**
-
--	Bootstrap
--	http://getbootstrap.com/customize/
--	http://stylebootstrap.info/
--	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
--	http://paintstrap.com/
--	http://bootswatchr.com/
--	http://paintstrap.com/
-
 **Git** - https://git-scm.com/
 
 **Evernote** - https://evernote.com/
@@ -99,7 +96,6 @@ paid premium stock photography
 **List of Front-end Resources** - https://github.com/dypsilon/frontend-dev-bookmarks
 
 **Node.js** - https://nodejs.org/en/
-
 
 **Sublime Text** -  https://www.sublimetext.com/
 
@@ -128,7 +124,8 @@ paid premium stock photography
 **GT Metrix** - https://gtmetrix.com/
 
 **Google Page Speed** - https://developers.google.com/speed/pagespeed/insights/
-YSlow
+
+**YSlow**
 
 **Wordpress -**
 
