@@ -1,4 +1,4 @@
-# listoftools
+# list of tools
 
 **tool** (n) -  something that aids in accomplishing a necessary task
 
@@ -60,6 +60,8 @@ paid premium stock photography
 -	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
 -	Autoprefixer - http://pleeease.io/play/
+-	Broken Link Check - http://www.brokenlinkcheck.com/
+-
 
 
 ###**Frameworks & Content Management Systems**
@@ -78,16 +80,17 @@ paid premium stock photography
 -   CSS Wizardry - http://cssguidelin.es/
 -   AirBNB - https://github.com/airbnb/cs
 -   SMACSS - https://smacss.com/
+-	BEM
 
 **Frameworks**
 
 -	Bootstrap
-	-	http://getbootstrap.com/customize/
-	-	http://stylebootstrap.info/
-	-	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
-	-	http://paintstrap.com/
-	-	http://bootswatchr.com/
-	-	http://paintstrap.com/
+-	http://getbootstrap.com/customize/
+-	http://stylebootstrap.info/
+-	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
+-	http://paintstrap.com/
+-	http://bootswatchr.com/
+-	http://paintstrap.com/
 
 **Git** - https://git-scm.com/
 
@@ -97,32 +100,25 @@ paid premium stock photography
 
 **Node.js** - https://nodejs.org/en/
 
-**Express.js** - http://expressjs.com/
-
 
 **Sublime Text** -  https://www.sublimetext.com/
 
--   Extensions:
-    Package Control
-
 **Atom** - https://atom.io/
 
-     **Extensions:**
-     atom-beautify
-     atom-jshint
-     autoclose-html
-     autoprefixer
-     highlight-line
-     highlight-selected
-     jshint
-     linter
-     linter-csslint
-     linter-htmlhint
-     linter-jshint
-     linter-scsshint
-     minimap
+**Extensions:**
+-	atom-beautify
+-	atom-meld
+-	autoclose-html
+-	autoprefixer
+-	highlight-line
+-	highlight-selected
+-	linter
+-	linter-csslint
+-	linter-htmlhint
+-	linter-jshint
+-	minimap
 
-**CodeAnywhere** -
+**CodeAnywhere** - http://www.codeanywhere.com
 **Cloud 9** - https://c9.io/
 
 **Testing/Analysis:**
@@ -140,24 +136,19 @@ YSlow
 - _underscores - http://underscores.me/
 - Genesis Framework - http://my.studiopress.com/themes/genesis/
 
-      Plug-Ins:
-      akismet
-      developer
-      limit login attempts
-      reveal template
-      wordfence
+Plug-Ins:
+-	akismet
+-	developer
+-	limit login attempts
+-	reveal template
+-	wordfence
 
 **Helpscout**
-
-**TE-XT** - http://www.te-xt.com/
-
-
 
 **Basecamp** - https://basecamp.com/
 
 **Wunderlist** - https://www.wunderlist.com/
 
-**Libre Office** - https://www.libreoffice.org/
 
 ## **Web Broswers**
 
@@ -169,31 +160,31 @@ YSlow
 
 **Chromium (Open Source)** - https://www.chromium.org/
 
-     **Extensions**
-     Appspector
-     Web Developer
-     uBlock Origin
-     SimpleExtManager
-     Evernote Web Clipper
-     Nimbus
-     Ghostery
-     HTTPS Everywhere
-     Too Many Tabs
-     The Great Suspender
-     Live CSS Editor
-     W3Schools Hider
-     CSS Dig
+**Extensions**
+-	Appspector
+-	Web Developer
+-	uBlock Origin
+-	SimpleExtManager
+-	Evernote Web Clipper
+-	Nimbus
+-	Ghostery
+-	HTTPS Everywhere
+-	Too Many Tabs
+-	The Great Suspender
+-	Live CSS Editor
+-	W3Schools Hider
+-	CSS Dig
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
 Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 
-     **Extensions**
-     ColorZilla
-     Firebug
-     CSS Usage
-     Dust-Me Selectors
-     Web Developer
+**Extensions**
+-	ColorZilla
+-	Firebug
+-	CSS Usage
+-	Dust-Me Selectors
+-	Web Developer
 
 **Browser Testing** -
 
