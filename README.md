@@ -11,6 +11,8 @@
 -   Google Developers - https://developers.google.com/web/tools/
 -   Google Web Fundamentals - https://developers.google.com/web/fundamentals/?hl=en
 -   Front End Handbook - http://www.frontendhandbook.com/
+-   Cheat Sheets - http://overapi.com/
+-   Javascript for Cats - http://jsforcats.com/
 -   CSS Tricks - https://css-tricks.com/
 -   You Might Not Need jQuery - http://youmightnotneedjquery.com/
 -   You Might Not Need jQuery Plugins - http://youmightnotneedjqueryplugins.com/
@@ -40,9 +42,13 @@ paid premium stock photography
 -   CodePen - http://codepen.io/
 -   Dans Tools - http://www.danstools.com/
 -   Toolbox - http://thetoolbox.cc/
+-   PerfRocks Tools (Web Performance) - http://perf.rocks/tools/
+-   TestMyCSS - http://www.testmycss.com/
+-   CSS
 -   DiffChecker - https://www.diffchecker.com/
 -   StackEdit (Writing Markdown) - https://stackedit.io/editor
 -   Dirty Markup - http://www.dirtymarkup.com/
+-   Online Code Beautifier - https://ctrlq.org/beautifier/
 -   BuiltWith Technology Profiler - http://builtwith.com/
 -   Can I Use - http://caniuse.com/
 -   HTML5 Please - http://html5please.com/
@@ -56,13 +62,13 @@ paid premium stock photography
 -   Colours - http://webcolourdata.com/
 -   Kuler - https://color.adobe.com/
 -	Paletton  - https://paletton.com
+-	Background Image Generator - http://bg.siteorigin.com/
+-	
 -	Favicon Generator - http://www.favicomatic.com/
 -	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
 -	Autoprefixer - http://pleeease.io/play/
 -	Broken Link Check - http://www.brokenlinkcheck.com/
--
-
 
 **Frameworks & Content Management Systems**
 
