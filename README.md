@@ -59,6 +59,7 @@ paid premium stock photography
 -   CSS Stats - http://www.cssstats.com/
 -   StyleStats - http://www.stylestats.org/
 -   StylifyMe - http://stylifyme.com/
+-   Palettable - http://www.palettable.io/
 -   Colours - http://webcolourdata.com/
 -   Kuler - https://color.adobe.com/
 -	Paletton  - https://paletton.com
