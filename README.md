@@ -193,3 +193,4 @@ Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 -   Browserling - https://www.browserling.com/
 -   View Like Us - http://www.viewlike.us/
 -   Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/
+-   Emmet Re:Code
