@@ -64,7 +64,7 @@ paid premium stock photography
 -   Kuler - https://color.adobe.com/
 -	Paletton  - https://paletton.com
 -	Background Image Generator - http://bg.siteorigin.com/
--	
+-	Responsive Image Breakpoints Generator - http://www.responsivebreakpoints.com/
 -	Favicon Generator - http://www.favicomatic.com/
 -	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
@@ -97,8 +97,6 @@ paid premium stock photography
 -	BEM
 
 **Git** - https://git-scm.com/
-
-**Evernote** - https://evernote.com/
 
 **List of Front-end Resources** - https://github.com/dypsilon/frontend-dev-bookmarks
 
@@ -151,9 +149,6 @@ Plug-Ins:
 
 **Basecamp** - https://basecamp.com/
 
-**Wunderlist** - https://www.wunderlist.com/
-
-
 ## **Web Broswers**
 
 **Google Chrome** - https://www.google.com/chrome/
@@ -165,19 +160,16 @@ Plug-Ins:
 **Chromium (Open Source)** - https://www.chromium.org/
 
 **Extensions**
--	Appspector
 -	Web Developer
 -	uBlock Origin
 -	SimpleExtManager
 -	Evernote Web Clipper
--	Nimbus
--	Ghostery
 -	HTTPS Everywhere
--	Too Many Tabs
 -	The Great Suspender
 -	Live CSS Editor
--	W3Schools Hider
 -	CSS Dig
+
+**Blisk** - https://blisk.io/
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
