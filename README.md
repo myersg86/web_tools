@@ -12,7 +12,6 @@
 -   Google Web Fundamentals - https://developers.google.com/web/fundamentals/?hl=en
 -   Front End Handbook - http://www.frontendhandbook.com/
 -   Cheat Sheets - http://overapi.com/
--   Javascript for Cats - http://jsforcats.com/
 -   CSS Tricks - https://css-tricks.com/
 -   You Might Not Need jQuery - http://youmightnotneedjquery.com/
 -   You Might Not Need jQuery Plugins - http://youmightnotneedjqueryplugins.com/
@@ -44,7 +43,6 @@ paid premium stock photography
 -   Toolbox - http://thetoolbox.cc/
 -   PerfRocks Tools (Web Performance) - http://perf.rocks/tools/
 -   TestMyCSS - http://www.testmycss.com/
--   CSS
 -   DiffChecker - https://www.diffchecker.com/
 -   StackEdit (Writing Markdown) - https://stackedit.io/editor
 -   Dirty Markup - http://www.dirtymarkup.com/
@@ -118,9 +116,6 @@ paid premium stock photography
 -	linter-htmlhint
 -	linter-jshint
 -	minimap
-
-**CodeAnywhere** - http://www.codeanywhere.com
-**Cloud 9** - https://c9.io/
 
 **Testing/Analysis:**
 
