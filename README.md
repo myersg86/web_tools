@@ -118,6 +118,12 @@ paid premium stock photography
 -	linter-jshint
 -	minimap
 
+**Static Site Generators**
+-   Jekyll - https://jekyllrb.com/
+-   Gatsby - https://github.com/gatsbyjs/gatsby
+-   DocPad - http://docpad.org/
+-   Hugo - https://gohugo.io/
+
 **Testing/Analysis:**
 
 **Web Page Test** - http://www.webpagetest.org/
