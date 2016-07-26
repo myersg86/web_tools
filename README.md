@@ -86,6 +86,7 @@ paid premium stock photography
 
 **CSS Best Practices:**
 
+-   StyleGuides - http://styleguides.io/ 
 -   Sass - http://sass-lang.com/guide
 -   US Design Standards - https://playbook.cio.gov/designstandards/
 -   Google - https://google.github.io/styleguide/htmlcssguide.xml
