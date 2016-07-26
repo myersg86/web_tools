@@ -6,7 +6,7 @@
 
 **Resources:**
 
--   Google Search - https://www.google.com/
+-   Google Search - https://encrypted.google.com/
 -   Mozilla Developer Network - https://developer.mozilla.org/en-US/
 -   Google Developers - https://developers.google.com/web/tools/
 -   Google Web Fundamentals - https://developers.google.com/web/fundamentals/?hl=en
