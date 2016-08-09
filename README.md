@@ -68,6 +68,8 @@ paid premium stock photography
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
 -	Autoprefixer - http://pleeease.io/play/
 -	Broken Link Check - http://www.brokenlinkcheck.com/
+-	MindMup -
+-	Autoprefixer Online - https://autoprefixer.github.io/
 -	IP Tools - https://iptools.co/
 
 **Frameworks & Content Management Systems**
