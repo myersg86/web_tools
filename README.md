@@ -71,6 +71,7 @@ paid premium stock photography
 -	MindMup -
 -	Autoprefixer Online - https://autoprefixer.github.io/
 -	IP Tools - https://iptools.co/
+-	WhatFontIs - http://www.whatfontis.com/
 
 **Frameworks & Content Management Systems**
 
