@@ -42,6 +42,7 @@ paid premium stock photography
 -	CodePen - http://codepen.io/
 -	Dans Tools - http://www.danstools.com/
 -	Toolbox - http://thetoolbox.cc/
+-   WebDevChecklist - http://webdevchecklist.com/
 -   PerfRocks Tools (Web Performance) - http://perf.rocks/tools/
 -   TestMyCSS - http://www.testmycss.com/
 -   DiffChecker - https://www.diffchecker.com/
