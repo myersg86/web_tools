@@ -29,18 +29,19 @@
 
 **Free Photography & Images**
 
--   Stock Photography - http://www.sitebuilderreport.com/stock-up
+-  	Stock Photography - http://www.sitebuilderreport.com/stock-up
 -	https://pixabay.com/ -
 images in the public domain
 -	http://www.istockphoto.com/ -
 paid premium stock photography
 -	https://unsplash.com/ - high-resolution photos licensed under Creative Commons Zero
+-	https://www.slidecraft.com/blog/best-websites-for-free-images-in-presentations
 
 **Web-Based (In-Browser) Tools:**
 
--   CodePen - http://codepen.io/
--   Dans Tools - http://www.danstools.com/
--   Toolbox - http://thetoolbox.cc/
+-	CodePen - http://codepen.io/
+-	Dans Tools - http://www.danstools.com/
+-	Toolbox - http://thetoolbox.cc/
 -   PerfRocks Tools (Web Performance) - http://perf.rocks/tools/
 -   TestMyCSS - http://www.testmycss.com/
 -   DiffChecker - https://www.diffchecker.com/
@@ -81,16 +82,16 @@ paid premium stock photography
 -   Jekyll - https://jekyllrb.com/docs/home/
 -   Wordpress - https://www.wordpress.com/
 -	Bootstrap
-    -	http://getbootstrap.com/customize/
-    -	http://stylebootstrap.info/
-    -	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
-    -	http://paintstrap.com/
-    -	http://bootswatchr.com/
-    -	http://paintstrap.com/
+-	http://getbootstrap.com/customize/
+-	http://stylebootstrap.info/
+-	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
+-	http://paintstrap.com/
+-	http://bootswatchr.com/
+-	http://paintstrap.com/
 
 **CSS Best Practices:**
 
--   StyleGuides - http://styleguides.io/ 
+-   StyleGuides - http://styleguides.io/
 -   Sass - http://sass-lang.com/guide
 -   US Design Standards - https://playbook.cio.gov/designstandards/
 -   Google - https://google.github.io/styleguide/htmlcssguide.xml
@@ -139,9 +140,9 @@ paid premium stock photography
 
 **Wordpress -**
 
-- Wordpress Codex - https://codex.wordpress.org/
-- _underscores - http://underscores.me/
-- Genesis Framework - http://my.studiopress.com/themes/genesis/
+-	Wordpress Codex - https://codex.wordpress.org/
+-	_underscores - http://underscores.me/
+-	Genesis Framework - http://my.studiopress.com/themes/genesis/
 
 Plug-Ins:
 -	akismet
