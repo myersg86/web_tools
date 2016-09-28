@@ -63,17 +63,15 @@ paid premium stock photography
 -   Colours - http://webcolourdata.com/
 -   Kuler - https://color.adobe.com/
 -	Paletton  - https://paletton.com
--	Background Image Generator - http://bg.siteorigin.com/
 -	Responsive Image Breakpoints Generator - http://www.responsivebreakpoints.com/
 -	Favicon Generator - http://www.favicomatic.com/
 -	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
--	Autoprefixer - http://pleeease.io/play/
 -	Broken Link Check - http://www.brokenlinkcheck.com/
 -	MindMup -
+-	Autoprefixer - http://pleeease.io/play/
 -	Autoprefixer Online - https://autoprefixer.github.io/
 -	IP Tools - https://iptools.co/
--	WhatFontIs - http://www.whatfontis.com/
 
 
 **Frameworks & Content Management Systems**
@@ -162,8 +160,6 @@ Plug-Ins:
 
 **Chrome Canary** - https://www.google.com/chrome/browser/canary.html
 
-**Chrome Beta** - https://www.google.com/chrome/browser/beta.html
-
 **Chromium (Open Source)** - https://www.chromium.org/
 
 **Extensions**
@@ -171,7 +167,6 @@ Plug-Ins:
 -	uBlock Origin
 -	SimpleExtManager
 -	Evernote Web Clipper
--	HTTPS Everywhere
 -	The Great Suspender
 -	Live CSS Editor
 -	CSS Dig
@@ -180,14 +175,14 @@ Plug-Ins:
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
 
-Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
+- Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 
-**Extensions**
--	ColorZilla
--	Firebug
--	CSS Usage
--	Dust-Me Selectors
--	Web Developer
+    **Extensions**
+    -	ColorZilla
+    -	Firebug
+    -	CSS Usage
+    -	Dust-Me Selectors
+    -	Web Developer
 
 **Browser Testing** -
 
@@ -200,5 +195,5 @@ Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 -   Browserling - https://www.browserling.com/
 -   View Like Us - http://www.viewlike.us/
 -   Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/
--   Emmet Re:Code
+-   Emmet Re:Code - browser extension
 -   Browser Sandbox - https://turbo.net/browsers
