@@ -42,16 +42,16 @@ paid premium stock photography
 -	CodePen - http://codepen.io/
 -	Dans Tools - http://www.danstools.com/
 -	Toolbox - http://thetoolbox.cc/
+-   AngryTools - http://angrytools.com/
 -   WebDevChecklist - http://webdevchecklist.com/
 -   PerfRocks Tools (Web Performance) - http://perf.rocks/tools/
 -   TestMyCSS - http://www.testmycss.com/
 -   DiffChecker - https://www.diffchecker.com/
--   StackEdit (Writing Markdown) - https://stackedit.io/editor
+-	Responsive Image Breakpoints Generator - http://www.responsivebreakpoints.com/
+-	Favicon Generator - http://www.favicomatic.com/
 -   Dirty Markup - http://www.dirtymarkup.com/
 -   Online Code Beautifier - https://ctrlq.org/beautifier/
 -   BuiltWith Technology Profiler - http://builtwith.com/
--   Can I Use - http://caniuse.com/
--   HTML5 Please - http://html5please.com/
 -   Image Compression TinyPNG - https://tinypng.com/ or https://tinyjpg.com/
 -	Media Query Generator - http://giona.net/tools/css3-mediaquery-generator/
 -	Advanced CSS Processor - http://tools.maxcdn.com/procssor/
@@ -63,15 +63,17 @@ paid premium stock photography
 -   Colours - http://webcolourdata.com/
 -   Kuler - https://color.adobe.com/
 -	Paletton  - https://paletton.com
--	Responsive Image Breakpoints Generator - http://www.responsivebreakpoints.com/
--	Favicon Generator - http://www.favicomatic.com/
+-   StackEdit (Writing Markdown) - https://stackedit.io/editor
 -	Critical CSS - http://jonassebastianohlsson.com/criticalpathcssgenerator/
 -	Golden Ratio Typography Calculator - http://www.pearsonified.com/typography/
 -	Broken Link Check - http://www.brokenlinkcheck.com/
--	MindMup -
+-	MindMup - https://www.mindmup.com/#m:new
 -	Autoprefixer - http://pleeease.io/play/
 -	Autoprefixer Online - https://autoprefixer.github.io/
 -	IP Tools - https://iptools.co/
+-   Online Image Vectorizer - https://www.vectorizer.io/
+-   Vectory Magic - http://vectormagic.com/home
+-   Color Thief - http://lokeshdhakar.com/projects/color-thief
 
 
 **Frameworks & Content Management Systems**
@@ -80,13 +82,13 @@ paid premium stock photography
 -   Foundation - http://foundation.zurb.com/
 -   Jekyll - https://jekyllrb.com/docs/home/
 -   Wordpress - https://www.wordpress.com/
--	Bootstrap
--	http://getbootstrap.com/customize/
--	http://stylebootstrap.info/
--	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
--	http://paintstrap.com/
--	http://bootswatchr.com/
--	http://paintstrap.com/
+-	**Bootstrap**
+    -	http://getbootstrap.com/customize/
+    -	http://stylebootstrap.info/
+    -	http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
+    -	http://paintstrap.com/
+    -	http://bootswatchr.com/
+    -	http://paintstrap.com/
 
 **CSS Best Practices:**
 
@@ -98,7 +100,6 @@ paid premium stock photography
 -   CSS Wizardry - http://cssguidelin.es/
 -   AirBNB - https://github.com/airbnb/cs
 -   SMACSS - https://smacss.com/
--	BEM
 
 **Git** - https://git-scm.com/
 
@@ -174,6 +175,8 @@ Plug-Ins:
 **Blisk** - https://blisk.io/
 
 **Mozilla Firefox** - https://www.mozilla.org/en-US/firefox/new/
+
+**Mozilla Firefox Developer Edition** - https://www.mozilla.org/en-US/firefox/developer/
 
 - Firefox Dev Tools - https://developer.mozilla.org/en-US/docs/Tools
 
