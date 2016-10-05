@@ -74,6 +74,8 @@ paid premium stock photography
 -   Online Image Vectorizer - https://www.vectorizer.io/
 -   Vectory Magic - http://vectormagic.com/home
 -   Color Thief - http://lokeshdhakar.com/projects/color-thief
+-   Remove Duplicates in Text - http://www.remove-duplicates.xyz/
+-   UnCSS Online - https://uncss-online.com/
 
 
 **Frameworks & Content Management Systems**
