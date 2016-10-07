@@ -76,7 +76,8 @@ paid premium stock photography
 -   Color Thief - http://lokeshdhakar.com/projects/color-thief
 -   Remove Duplicates in Text - http://www.remove-duplicates.xyz/
 -   UnCSS Online - https://uncss-online.com/
-
+-   Blend - http://www.colinkeany.com/blend/
+-   CSSMatic Gradient Generator - http://www.cssmatic.com/gradient-generator
 
 **Frameworks & Content Management Systems**
 
